@@ -1,0 +1,10 @@
+C:\Users\Riju Mukherjee\Desktop\Windows apps\Web_Browser\Web_Browser\bin\Debug\Web_Browser.exe.config
+C:\Users\Riju Mukherjee\Desktop\Windows apps\Web_Browser\Web_Browser\bin\Debug\Web_Browser.exe
+C:\Users\Riju Mukherjee\Desktop\Windows apps\Web_Browser\Web_Browser\bin\Debug\Web_Browser.pdb
+C:\Users\Riju Mukherjee\Desktop\Windows apps\Web_Browser\Web_Browser\obj\Debug\Web_Browser.csprojAssemblyReference.cache
+C:\Users\Riju Mukherjee\Desktop\Windows apps\Web_Browser\Web_Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+C:\Users\Riju Mukherjee\Desktop\Windows apps\Web_Browser\Web_Browser\obj\Debug\Web_Browser.csproj.GenerateResource.cache
+C:\Users\Riju Mukherjee\Desktop\Windows apps\Web_Browser\Web_Browser\obj\Debug\Web_Browser.csproj.CoreCompileInputs.cache
+C:\Users\Riju Mukherjee\Desktop\Windows apps\Web_Browser\Web_Browser\obj\Debug\Web_Browser.exe
+C:\Users\Riju Mukherjee\Desktop\Windows apps\Web_Browser\Web_Browser\obj\Debug\Web_Browser.pdb
+C:\Users\Riju Mukherjee\Desktop\Windows apps\Web_Browser\Web_Browser\obj\Debug\Web_Browser.Form1.resources
